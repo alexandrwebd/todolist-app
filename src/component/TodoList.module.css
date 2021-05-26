@@ -1,0 +1,9 @@
+.todolistWrapper {
+    display: flex;
+    width: 500px;
+    min-height: 40px;
+    align-items: center;
+    background-color: rgb(54, 175, 223);
+    border-radius: 5px;
+    padding: 10px;
+}

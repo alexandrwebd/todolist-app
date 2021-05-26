@@ -1,0 +1,20 @@
+.ButtonWrapper {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 15px;
+}
+
+.ButtonWrapper button {
+    width: 80%;
+    background-color: rgb(47, 189, 66);
+    color: #ffffff;
+    outline: none;
+    border: none;
+    height: 30px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.ButtonWrapper button:hover {
+    background-color: rgb(31, 138, 45);
+}

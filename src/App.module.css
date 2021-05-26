@@ -1,0 +1,12 @@
+
+h1 {
+  text-align: center;
+}
+
+.flexWrapper {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
